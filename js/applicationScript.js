@@ -46,7 +46,7 @@ var init = function() {
     $("#button_53fea").html('button2'); 
  
     $("#button_f75ed").click(function(){
-        alert("button");
+        alert("button1 clicked");
     }); 
 
 

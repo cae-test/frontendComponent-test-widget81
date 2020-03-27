@@ -45,7 +45,7 @@ var init = function() {
     $("#button_f75ed").html('button1'); 
     $("#button_53fea").html('button2'); 
  
-    $("#btnSubmit").click(function(){
+    $("#button_f75ed").click(function(){
         alert("button");
     }); 
 

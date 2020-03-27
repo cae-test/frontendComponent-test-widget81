@@ -48,6 +48,10 @@ var init = function() {
     $("#button_f75ed").click(function(){
         alert("button1 clicked");
     }); 
+ 
+    $("#button_f75ed").click(function(){
+        alert("button1 clicked");
+    }); 
 
 
 }

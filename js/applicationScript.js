@@ -49,8 +49,8 @@ var init = function() {
         alert("button1 clicked");
     }); 
  
-    $("#button_f75ed").click(function(){
-        alert("button1 clicked");
+    $("#button_53fea").click(function(){
+        alert("button2 clicked");
     }); 
 
 

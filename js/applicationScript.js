@@ -43,7 +43,11 @@ var init = function() {
   client = new Las2peerWidgetLibrary("$Microservice_Url$/test", iwcCallback);
  
     $("#button_f75ed").html('button1'); 
-    $("#button_53fea").html('button2');
+    $("#button_53fea").html('button2'); 
+ 
+    $("#btnSubmit").click(function(){
+        alert("button");
+    }); 
 
 
 }
